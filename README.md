@@ -2,7 +2,7 @@
 
 Multi-factor EUR/USD return model investigating the relationship between 
 FX and commodity markets using dimensionality reduction and regression 
-techniques across a 10-year daily dataset (2016–2026).
+techniques across a 8-year daily dataset (2018–2026).
 
 ## Objective
 Identify which commodity markets drive EUR/USD daily returns and quantify 
