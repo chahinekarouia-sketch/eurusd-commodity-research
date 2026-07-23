@@ -10,7 +10,7 @@ their explanatory power using both unsupervised and supervised methods.
 
 ## Methodology
 - **Data**: 20 commodities across metals, energy, and agriculture — 
-  daily returns via yfinance (2016–2026)
+  daily returns via yfinance (2018–2026)
 - **Pearson correlation & 60-day rolling correlation**: identified 
   regime shifts in commodity/FX relationships across macro cycles
 - **PCA**: decomposed commodity co-movement into principal components 
